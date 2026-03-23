@@ -1,0 +1,55 @@
+[
+  {
+    "name":"Akash",
+    "id": 1,
+    "plan": "Basic",
+    "price": "$ 29.99 / Month",
+    "duration": "1 Month",
+    "popular": false,
+    "features": [
+      "Gym Access",
+      "Locker Facility",
+      "1 Trainer Session",
+      "Free WiFi",
+      "Access to Cardio Equipment",
+      "Basic Support"
+    ]
+  },
+  {
+    "name":"Topu",
+    "id": 2,
+    "plan": "Standard",
+    "price": "$ 49.99 / Month",
+    "duration": "3 Months",
+    "popular": true,
+    "features": [
+      "Full Gym Access",
+      "Locker Facility",
+      "5 Trainer Sessions",
+      "Personal Diet Plan",
+      "Access to Group Classes",
+      "Progress Tracking",
+      "Free WiFi",
+      "Steam Bath Access"
+    ]
+  },
+  {
+    "name":"Abu",
+    "id": 3,
+    "plan": "Premium",
+    "price": "$ 99.99 / Month",
+    "duration": "6 Months",
+    "popular": false,
+    "features": [
+      "24/7 Gym Access",
+      "Unlimited Trainer Support",
+      "Personal Diet & Workout Plan",
+      "All Group Classes Included",
+      "Body Composition Analysis",
+      "Supplement Guidance",
+      "Priority Support",
+      "Sauna & Steam Bath",
+      "Free Gym Merchandise"
+    ]
+  }
+]
